@@ -1,0 +1,11 @@
+
+2026-04-12 21:09:39,163 - DEBUG - Building SSL context
+2026-04-12 21:09:39,327 - DEBUG - Switching to SSL
+2026-04-12 21:09:39,338 - DEBUG - SSL has been enabled
+2026-04-12 21:09:39,343 - DEBUG - Starting authorization phase
+2026-04-12 21:09:39,343 - DEBUG - The provided initial strategy is caching_sha2_password
+2026-04-12 21:09:39,348 - DEBUG - Exchanging further packets
+2026-04-12 21:09:39,350 - DEBUG - caching_sha2_password completed succesfully
+2026-04-12 21:12:03,317 - INFO - Summary table created succesfully
+2026-04-12 21:12:03,449 - INFO - Summary table cleaned succesfully
+2026-04-12 21:12:06,410 - INFO - Summary table save in database succesfully
