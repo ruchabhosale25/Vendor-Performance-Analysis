@@ -87,7 +87,7 @@ These actions can help increase profitability, reduce risks, and improve operati
 
 ## 📊 Dashboard
 
-<img width="1275" height="719" alt="image" src="https://github.com/user-attachments/assets/724b07a2-3fff-4b38-9395-b7b8b619e641" />
+<img width="1279" height="721" alt="image" src="https://github.com/user-attachments/assets/58db6863-2afe-4d1a-ad45-612ed8d27720" />
 
 
 ---
