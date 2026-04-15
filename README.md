@@ -103,4 +103,4 @@ This analysis helps businesses make data-driven decisions by identifying ineffic
 **Rucha Bhosale**
 
 **Linkedin : www.linkedin.com/in/rucha-d-bhosale**
-<img width="1279" height="721" alt="image" src="https://github.com/user-attachments/assets/58db6863-2afe-4d1a-ad45-612ed8d27720" />
+
